@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# React build files
+frontend/build/
+
+# Backend build files (if using TypeScript)
+backend/dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Debugging files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
